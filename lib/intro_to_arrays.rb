@@ -6,5 +6,7 @@ def array_with_two_elements(num1, num2)
   return ["num1", "num2"]
 end
 
-def first_element
+def first_element(array)
+  return array[1]
+end
   
